@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2020-06-22 14:10:03.346",
+    "qty": 10,
+    "side": "long",
+    "user_id": 1,
+    "user_account_id": 1,
+    "asset_id": 5,
+    "avg_fill_price": 100
+  },
+  {
+    "id": 2,
+    "timestamp": "2020-06-23 14:10:03.346",
+    "qty": 20,
+    "side": "long",
+    "user_id": 1,
+    "user_account_id": 1,
+    "asset_id": 5,
+    "avg_fill_price": 105
+  },
+  {
+    "id": 3,
+    "timestamp": "2020-06-24 14:10:03.346",
+    "qty": 10,
+    "side": "long",
+    "user_id": 1,
+    "user_account_id": 1,
+    "asset_id": 5,
+    "avg_fill_price": 110
+  },
+  {
+    "id": 4,
+    "timestamp": "2020-06-25 14:10:03.346",
+    "qty": 0,
+    "side": "long",
+    "user_id": 1,
+    "user_account_id": 1,
+    "asset_id": 5,
+    "avg_fill_price": 115
+  }
+]
